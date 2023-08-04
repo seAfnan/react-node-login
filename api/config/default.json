@@ -1,0 +1,6 @@
+{
+  "jwtNodeLoginKey": "unsecureKey",
+  "db": "mongodb://localhost:27017/react-node-login",
+  "port": "3100",
+  "requiresAuth": false
+}
